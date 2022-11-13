@@ -103,8 +103,8 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 		<TR>
 			<TD BACKGROUND="fade.gif">
 				&middot;
-					<A HREF="up4u.up.edu.mx/index.html">
-						up4u.up.edu.mx/index.html
+					<A HREF="up4u.up.edu.mx/index.pphp">
+						up4u.up.edu.mx/index.php
 					</A>		
 			</TD>
 		</TR>
@@ -117,7 +117,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 	</H6>
 	<!-- Mirror and index made by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 	<!-- Thanks for using HTTrack Website Copier! -->
-	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=up4u.up.edu.mx/index.html">
+	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=up4u.up.edu.mx/index.php">
 
 
 <!-- ==================== Start epilogue ==================== -->
