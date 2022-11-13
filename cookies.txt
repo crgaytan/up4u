@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+up4u.up.edu.mx	TRUE	/	FALSE	1999999999	PHPSESSID	bi0j18gqejbv061bj46i65tg4g
+up4u.up.edu.mx	TRUE	/	FALSE	1999999999	_csrf	65f6b4e6c62950019ed21dd6aefe62cc573519d5ff1ce783737e81df2967cc3aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22gMnTTRBo0x0NFqo32oMaumHRP-sG_fzn%22%3B%7D
+
