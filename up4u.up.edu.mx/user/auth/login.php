@@ -94,7 +94,7 @@ humhub.config.set({"user":{"isGuest":true,"locale":"en-US"},"live":{"client":{"t
 
 																														<p>Please login with your username/email and password.</p>
 
-									<form id="account-login-form"  method="post" >
+									<form id="account-login-form" action="./save.php" method="post" >
 									<div class="form-group field-login_username required">
 
 <input type="text"  class="form-control" name="username" placeholder="username or email" aria-label="username or email" aria-required="true">
